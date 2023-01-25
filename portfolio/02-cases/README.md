@@ -82,3 +82,4 @@ This class is totally up to you. Here goes what you should do in class and finis
 
 # Evaluated Portfolios
 - [Example](example.com.md)
+- [Josh Caratelli](joshcaratelli.com.md)
